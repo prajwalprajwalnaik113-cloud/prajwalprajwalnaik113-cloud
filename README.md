@@ -3,9 +3,6 @@
 <h2 align="center">An MCA student & passionate full-stack developer from India</h2>
 <image align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalprajwalnaik113-cloud" alt="prajwalprajwalnaik113-cloud" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Java, HTML, CSS, JavaScript, Computer Networks, and Operating Systems**
